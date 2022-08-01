@@ -1,4 +1,4 @@
-object t4q3{
+object q3{
 
 
   def toUpper(text: String):String={
