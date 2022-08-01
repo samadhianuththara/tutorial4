@@ -1,4 +1,4 @@
-object t4q2 extends App {
+object q2 extends App {
 
   println("Input number : ")
   var user_input: Int = scala.io.StdIn.readInt()
