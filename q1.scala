@@ -1,4 +1,4 @@
-object t4q1 extends App{
+object q1 extends App{
   def interest(deposit: Double): Double = deposit match {
     case x if x < 0       => 0;
     case x if x <= 20000  => x * 0.02;
